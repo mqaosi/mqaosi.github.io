@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mqaosi.github.io/iMi/sitemap.iMi.gz
